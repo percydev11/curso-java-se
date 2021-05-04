@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d242226c-44c2-4483-b1cc-f33267b08575" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalificacionesExamen.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CalificacionesExamen/LibroCalificaciones.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CalificacionesExamen/PruebaLibroCalificaciones.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LibroCalificaciones.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PruebaLibroCalificaciones.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +36,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Encuesta" />
   </component>
   <component name="RunManager">
     <configuration name="PruebaLibroCalificaciones" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
